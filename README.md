@@ -1,0 +1,1 @@
+# qmlplugin_test1
