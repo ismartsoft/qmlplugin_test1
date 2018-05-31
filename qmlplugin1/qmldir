@@ -1,0 +1,3 @@
+module com.mycompany.qmlcomponents
+//JButton 1.0 qrc:/qml/JButton.qml
+plugin qmlplugin1
